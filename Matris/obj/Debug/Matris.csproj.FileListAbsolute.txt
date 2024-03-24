@@ -1,0 +1,7 @@
+C:\Users\BuseC\source\repos\Matris\bin\Debug\Matris.exe.config
+C:\Users\BuseC\source\repos\Matris\bin\Debug\Matris.exe
+C:\Users\BuseC\source\repos\Matris\bin\Debug\Matris.pdb
+C:\Users\BuseC\source\repos\Matris\obj\Debug\Matris.csproj.AssemblyReference.cache
+C:\Users\BuseC\source\repos\Matris\obj\Debug\Matris.csproj.CoreCompileInputs.cache
+C:\Users\BuseC\source\repos\Matris\obj\Debug\Matris.exe
+C:\Users\BuseC\source\repos\Matris\obj\Debug\Matris.pdb

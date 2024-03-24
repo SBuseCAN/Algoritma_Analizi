@@ -1,0 +1,7 @@
+C:\Users\BuseC\source\repos\Ödev-5\bin\Debug\Ödev-5.exe.config
+C:\Users\BuseC\source\repos\Ödev-5\bin\Debug\Ödev-5.exe
+C:\Users\BuseC\source\repos\Ödev-5\bin\Debug\Ödev-5.pdb
+C:\Users\BuseC\source\repos\Ödev-5\obj\Debug\Ödev-5.csproj.AssemblyReference.cache
+C:\Users\BuseC\source\repos\Ödev-5\obj\Debug\Ödev-5.csproj.CoreCompileInputs.cache
+C:\Users\BuseC\source\repos\Ödev-5\obj\Debug\Ödev-5.exe
+C:\Users\BuseC\source\repos\Ödev-5\obj\Debug\Ödev-5.pdb

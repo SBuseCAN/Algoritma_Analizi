@@ -1,0 +1,7 @@
+C:\Users\BuseC\source\repos\GeziciAlgoritması\bin\Debug\GeziciAlgoritması.exe.config
+C:\Users\BuseC\source\repos\GeziciAlgoritması\bin\Debug\GeziciAlgoritması.exe
+C:\Users\BuseC\source\repos\GeziciAlgoritması\bin\Debug\GeziciAlgoritması.pdb
+C:\Users\BuseC\source\repos\GeziciAlgoritması\obj\Debug\GeziciAlgoritması.csproj.AssemblyReference.cache
+C:\Users\BuseC\source\repos\GeziciAlgoritması\obj\Debug\GeziciAlgoritması.csproj.CoreCompileInputs.cache
+C:\Users\BuseC\source\repos\GeziciAlgoritması\obj\Debug\GeziciAlgoritması.exe
+C:\Users\BuseC\source\repos\GeziciAlgoritması\obj\Debug\GeziciAlgoritması.pdb
