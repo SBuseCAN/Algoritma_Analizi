@@ -1,0 +1,7 @@
+C:\Users\BuseC\source\repos\Carpma_algoritmasi\bin\Debug\Carpma_algoritmasi.exe.config
+C:\Users\BuseC\source\repos\Carpma_algoritmasi\bin\Debug\Carpma_algoritmasi.exe
+C:\Users\BuseC\source\repos\Carpma_algoritmasi\bin\Debug\Carpma_algoritmasi.pdb
+C:\Users\BuseC\source\repos\Carpma_algoritmasi\obj\Debug\Carpma_algoritmasi.csproj.AssemblyReference.cache
+C:\Users\BuseC\source\repos\Carpma_algoritmasi\obj\Debug\Carpma_algoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\BuseC\source\repos\Carpma_algoritmasi\obj\Debug\Carpma_algoritmasi.exe
+C:\Users\BuseC\source\repos\Carpma_algoritmasi\obj\Debug\Carpma_algoritmasi.pdb
